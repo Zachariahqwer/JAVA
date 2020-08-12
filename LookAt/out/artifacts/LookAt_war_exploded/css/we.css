@@ -1,0 +1,85 @@
+.we_body{
+	width: 1000px;
+	margin: 0 auto;
+}
+.sp{
+	height: 470px;
+	background: url(../img/bj.png);
+	background-repeat: no-repeat;
+	background-size: 100%;
+	width: 100%;
+}
+.sj_head{
+	padding-top: 20px;
+	text-align: center;
+}
+.sp span{
+	font-size: 24px;
+}
+.sp2{
+	position: absolute;
+	right: 10px;
+}
+.sp h3{
+	font-size: 20px;
+}
+.sp b{
+	border: 1px solid #222222;
+	font-size: 18px;
+}
+.img{
+	width: 100%;
+	text-align: center;
+}
+.sj-concent{
+	margin-top: 30px;
+}
+.sj{
+	text-align: center;
+	padding: 4px;
+	width: 160px;
+	margin-left: 40px;
+	font-size: 16px;
+	background-color: #E5AF29;
+	border: aqua 1px solid;
+}
+.sj_body{
+	padding: 4px;
+	margin: 0 auto;
+	width: 900px;
+}
+.sj_body span{
+	margin-left: 20px;
+	text-indent: 4px;
+	line-height: 1.6;
+	font-size: 18px;
+}
+.cy{
+	text-align: center;
+	font-size: 30px;
+}
+.tuandui li{
+	list-style-type: none;
+	padding-left: 10px;
+	height: 50px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+.xingxi{
+	line-height: 50px;
+	width: 330px;
+	float: left;
+}
+.xingxi img{
+	float: left;
+}
+.xingxi text{
+	margin-left: 15px;
+	font-size: 20px;
+	float: left;
+}
+.xingxi span{
+	margin-left: 15px;
+	font-size: 10px;
+	float: left;
+}
